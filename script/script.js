@@ -1,0 +1,1 @@
+let bottom2=document.querySelector(".bottom2")
